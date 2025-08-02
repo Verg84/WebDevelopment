@@ -1,0 +1,71 @@
+<head>
+    <title>FlexBox Flow Direction</title>
+    <style>
+        #parent{
+            background: aquamarine;
+            padding: 10px;
+            display:flex;
+            flex-flow: column;
+        }
+
+        #parent2{
+            background: mediumaquamarine;
+            margin-top: 20px;
+            display: flex;
+            flex-flow: row;
+        }
+
+        #parent3{
+            background: blueviolet;
+            margin-top: 50px;
+            padding: 10px;
+            width:500px;
+            display:flex;
+            flex-flow:row-reverse;
+        }
+
+        .childitem{
+            width: 100px;
+            height: 100px;
+        }
+
+        .childitem2
+        {
+            width: 100px;
+            height: 100px;
+        }
+
+        .child1{
+            background: red;
+        }
+
+        .child2{
+            background: blue;
+        }
+
+        .child3{
+            background: green;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div id="parent">
+        <div class="childitem child1">001</div>
+        <div class="childitem child2">002</div>
+        <div class="childitem child3">003</div>
+    </div>
+
+    <div id="parent2">
+        <div class="childitem2 child1">001</div>
+        <div class="childitem2 child2">002</div>
+        <div class="childitem2 child3">003</div>
+    </div>
+
+    <div id="parent3">
+        <div class="childitem child1">001</div>
+        <div class="childitem child2">002</div>
+        <div class="childitem child3">003</div>
+    </div>
+</body>
