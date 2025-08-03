@@ -1,0 +1,19 @@
+<head>
+    <title>Flex Child Items Resize</title>
+    <style>
+        #parent { background: lightblue;margin-top: 50px; display: flex; flex-flow: row nowrap;}
+        .childitemB{flex-basis: 300px;}
+        .childitem { width: 300px; }
+        .child1 { background: cornflowerblue;flex-grow: 1;}
+        .child2 { background: deepskyblue;}
+        .child3 { background: dodgerblue; flex-grow: 0.5;} 
+    </style>
+</head>
+
+<body>
+    <div id="parent">
+        <div class="childitem child1">001</div>
+        <div class="childitem child2">002</div>
+        <div class="childitem child3">003</div>
+    </div>
+</body>
