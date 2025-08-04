@@ -1,0 +1,21 @@
+<head>
+    <style>
+        #div1{
+            background-color: lawngreen;
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div class="class1" id="div1">Hello World</div>
+    <button class="class1" id="button1">Click here</button>
+
+    <script>
+        var button1=document.getElementById('button1');
+        button1.addEventListener('click',function(event){
+            target=event.target;
+            alert('Target says '+target.innerHTML);
+        })
+    </script>
+</body>
