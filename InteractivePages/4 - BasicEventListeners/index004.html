@@ -1,0 +1,22 @@
+<head>
+    <style>
+        #div1{
+            background-color: #00ff00;
+            width: 200px;
+            height: 200px;
+            padding-top:50px;
+            padding-left: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div id="div1">HELLO THERE</div>
+
+    <script>
+        var div1=document.getElementById('div1');
+        div1.addEventListener('mouseover',function(event){
+            event.target.style.backgroundColor='ff0000';
+            div1.innerHTML='XXX'
+        });
+    </script>
+</body>
