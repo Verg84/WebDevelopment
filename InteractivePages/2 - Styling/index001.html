@@ -1,0 +1,17 @@
+<head>
+    <style>
+        #div1{
+            background-color: green;
+        }
+    </style>
+</head>
+<body>
+    <div id="div1">
+    <div class="class1">Hello World</div>
+    </div>
+    <script>
+        var div1=document.getElementById('div1');
+        var valueColor=window.getComputedStyle(div1).backgroundColor;
+        alert('COLOR: '+valueColor);
+    </script>
+</body>
