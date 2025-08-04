@@ -1,0 +1,13 @@
+<body>
+    <div id="div1" class="class1">Hello
+    <div class="class1">World</div>
+    </div>
+
+    <script>
+        // Nested loops
+        var div1=document.getElementById('div1');
+        var innerDiv=div1.getElementsByClassName('class1');
+        alert('Outer tag says '+div1.innerHTML);
+        alert('Nested tag says '+innerDiv[0].innerHTML);
+    </script>
+</body>
