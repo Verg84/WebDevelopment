@@ -1,0 +1,19 @@
+.item{
+    margin-left: 5px;
+}
+
+.highlightA{
+    background-color: #F00;
+}
+
+.highlightB{
+    background-color: lightcoral;
+}
+
+.highlightC{
+    background-color: brown;
+}
+
+.highlightD{
+    background-color:lemonchiffon;
+}
