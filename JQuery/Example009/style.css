@@ -1,0 +1,16 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: #cfc;
+}
+
+.boxB{
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: #fa0;
+}
+
+.highlight{
+    background-color: #fcc;
+}
