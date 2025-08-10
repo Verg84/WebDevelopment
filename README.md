@@ -2,6 +2,7 @@
 Various applications using HTML,CSS and Javascript
 
 ## Instructions
+
 <p>Navigate through the different branches to
 inspect the code.</p>
 <ul>
@@ -16,14 +17,17 @@ git checkout javascript
 ```
 
 ## Contents
-<lu>FlexBox
-  <li>FlexBox Parenting</li>
-  <li>FlexFlow Direction</li>
-  <li>FlexWidth Behaviour</li>
-  <li>Child-Flex Items Wrapping</li>
-  <li>FlexFlow Property</li>
-  <li>Alignment and Spacing</li>
-  <li>FlexGrow</li>
-  <li>FlexShrink</li>
-  <li>Web Page Layout</li>
-</lu>
+
+- CSS
+  - Flexbox
+    1. Parenting
+    2. Flex Direction
+    3. Flex Width behaviour
+    4. Child-Flow items wrapping
+    5. Flex Flow property
+    6. Child-Flow items Alignment, Spacing
+    7. FlexGrow
+    8. FlexShrink
+    9. Web Page Layout
+
+- Javascript
