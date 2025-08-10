@@ -5,10 +5,10 @@ Various applications using HTML,CSS and Javascript
 
 <p>Navigate through the different branches to
 inspect the code.</p>
-<ul>
-  <li>CSS</li>
-  <li>javascript</li>
-</ul>
+
+* [Styling with CSS](https://github.com/Verg84/WebDevelopment/tree/css)
+* [Javascript code](https://github.com/Verg84/WebDevelopment/tree/javascript)
+
 
 Some usefull git commands:
 ```
