@@ -9,6 +9,12 @@ inspect the code.</p>
   <li>javascript</li>
 </ul>
 
+Some usefull git commands:
+```
+git checkout css
+git checkout javascript
+```
+
 ## Contents
 <lu>FlexBox
   <li>FlexBox Parenting</li>
