@@ -33,4 +33,7 @@ git checkout javascript
 - ### Javascript Applications
   - [JQuery](https://github.com/Verg84/WebDevelopment/tree/javascript/JQuery)
   - [Interactive Pages](https://github.com/Verg84/WebDevelopment/tree/javascript/InteractivePages)
+
+- ### Various Web Applications
+  -[JSChess](https://github.com/JoachimDunkel/JSChess) 
    
