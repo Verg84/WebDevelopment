@@ -18,7 +18,7 @@ git checkout javascript
 
 ## Contents
 
-- CSS
+- ### CSS
   - [Flexbox](https://github.com/Verg84/WebDevelopment/tree/css/Flexbox)
     1. [Parenting](https://github.com/Verg84/WebDevelopment/tree/css/Flexbox/001_FlexboxParenting)
     2. [Flex Direction](https://github.com/Verg84/WebDevelopment/tree/css/Flexbox/002_FlexFlow_Direction)
@@ -30,4 +30,7 @@ git checkout javascript
     8. [FlexShrink](https://github.com/Verg84/WebDevelopment/tree/css/Flexbox/008_FlexShrink)
     9. [Web Page Layout with FlexBox](https://github.com/Verg84/WebDevelopment/tree/css/Flexbox/009_FlexBoxPageWebPageLayout)
 
-- Javascript
+- ### Javascript Applications
+  - [JQuery](https://github.com/Verg84/WebDevelopment/tree/javascript/JQuery)
+  - [Interactive Pages](https://github.com/Verg84/WebDevelopment/tree/javascript/InteractivePages)
+   
