@@ -31,7 +31,7 @@ git checkout javascript
     9. [Web Page Layout with FlexBox](https://github.com/Verg84/WebDevelopment/tree/css/Flexbox/009_FlexBoxPageWebPageLayout)
 
 - ### Javascript Applications
-  - [JQuery](https://github.com/Verg84/WebDevelopment/tree/javascript/JQuery)
+  - [JQuery](https://github.com/Verg84/WebDevelopment/tree/javascript/JQuery) examples
   - [Interactive Pages](https://github.com/Verg84/WebDevelopment/tree/javascript/InteractivePages)
 
 - ### Various Web Applications
